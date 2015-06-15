@@ -1,0 +1,9 @@
+Package: rMyFitnessPal
+Type: Package
+Title: Extract and use MyFitnessPal data within R
+Version: 0.1
+Date: 2015-06-14
+Author: Drewrey Lupton [aut, cre]
+Maintainer: Drewrey Lupton <drewrey@gmail.com>
+Description: Provides methods for extracting and using MyFitnessPal data in R.
+License: MIT + file LICENSE
